@@ -5,8 +5,8 @@ date: 2016-05-30
 categories:
   - Canada
 description:
-image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15110431_10207855784092747_8213392963360787633_o.jpg
-image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15110431_10207855784092747_8213392963360787633_o.jpg
+image: {{ base.url }}/adventures/assets/images/niagarra.jpg
+image-sm: {{ base.url }}/adventures/assets/images/niagarra.jpg
 ---
 
 I got lucky the day I rode to Canada. I think it was about an 80 mile ride or so and the road was pretty remote at times. As I was waiting in line with the cars to cross the border in Canada, I heard some strange noises coming from my bike and realized I broke a spoke. Fortunately I was only a couple of miles from my hostel so it wasn't a big deal, but had that happened earlier in my ride I would have been in trouble.
