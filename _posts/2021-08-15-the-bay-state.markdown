@@ -57,6 +57,8 @@ Overall was beautiful to see more of my home state and truly complete the journe
 
 ![Albany](https://adrielklein.github.io/adventures/assets/images/timeLapse.jpg)
 
-As I made my way to the albany train station to take the amtrak back to Framingham where my brother was kind enough to pick me up, I stopped at the exact spot on the hudson river that I had remember taking a picture at when I was embarking 5 years ago.
+As I made my way to the albany train station to take the amtrak back to Framingham where my brother was kind enough to pick me up, I stopped at the exact spot on the hudson river that I had remember taking a picture at when I was embarking 5 years ago. As I stood in that same spot, I remembered feeling of excitement, adventure, andoverwhelming sense of freedom and gratitute do be able to embark on such a trip.
 
-Life goes by quickly! Make the most of it!
+Having completed this journey had marked two full traversals of the US.
+
+So in other words, time for a third.
