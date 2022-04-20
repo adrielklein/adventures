@@ -75,15 +75,15 @@ After grabbing some food at the only store in the town, we found a nice gazebo t
 
 The next day we made our way to Newton, KS. We arranged a Warm Showers host for that night so we were excited to have the comfort of a home. The ride there was short but it nice and scenic.
 
-<img src="https://adrielklein.github.io/adventures/assets/images/kans3.jpg" width="100%">
-
 <img src="https://adrielklein.github.io/adventures/assets/images/kans4.jpg" width="100%">
 
 Anyways, we checked out [a bike shop](http://www.newtonbikeshop.com/) in Newton that also operates as a hostel for touring cyclists. They refer to themselves as "THE OASIS IN THE GRASS DESERT TO ALL TOURING CYCLISTS". Shortly after arriving, we learned that there was another race that crosses the US called the [TransAm Bike Race](http://transambikerace.com/). I met some racers at the shop and enjoyed talking with them. The race is still young and has only been going on for a few years but I think it's gaining traction.
 
 We stayed with a woman named Janet in Newton. She was really nice and friendly. Also, we met another cyclist who was staying there named Colin, an author of a [great cycling blog](http://www.memybikeandacamera.com/).
 
-The next night we stayed at a church in Hutchinson, KS that is also a free hostel for cyclists. I love places like this.
+The next night we stayed at a church in Hutchinson, KS that is also a free hostel for cyclists. I love places like this. Not only is it a great way to travel cheap but it immerses you in the community of folks who bike tour.
+
+<img src="https://adrielklein.github.io/adventures/assets/images/kans3.jpg" width="100%">
 
 Turns out the pastor was an avid cyclist. He used to have a bike shop in town and wanted to help touring cyclists along their journey.
 
