@@ -9,6 +9,8 @@ image: https://adrielklein.github.io/adventures/assets/images/midwest.jpg
 image-sm: https://adrielklein.github.io/adventures/assets/images/midwest.jpg
 ---
 
+# Ohio
+
 In order to ensure I had a place to stay each night, I had planned my route for the next 650 miles from Sandusky, OH to St. Louis, MO.
 
 The route would take me 11 days (~60mi/day), 9 of which I had a Warm Showers host and the other 2 would be at campgrounds. Although I did a great job with logistic planning, I failed to schedule a rest day and I would later regret this.

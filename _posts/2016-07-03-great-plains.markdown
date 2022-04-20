@@ -9,6 +9,8 @@ image: https://adrielklein.github.io/adventures/assets/images/kans6.jpg
 image-sm: https://adrielklein.github.io/adventures/assets/images/kans6.jpg
 ---
 
+# Missouri
+
 The Katy Trail was spectacular. Stretching 237 miles across the state of Missouri, the crushed limestone trail is the longest bike path in the nation. Although it's not paved, I had no problem at all riding on it with road bike tires. I would recommend it to anybody interested in bike touring, especially beginners. The majority of the trail is shaded which makes it ideal for riding during the heat of the day. There are some parts of the trail without overhead cover, but the great views make up for the lack of shade.
 
 The shaded parts of the trail provide for some ideal cycling conditions.
@@ -42,6 +44,8 @@ The pastor was one of the friendliest upbeat people I've met. I don't think I'll
 Erika and I ended up helping him move his treadmill out of the basement to give to one of his neighbors. The treadmill was big and heavy so it was not easy to move. We ended up working together to get it into his neighbor's truck. It felt good to do the pastor a favor considering the favor he was doing for us.
 
 The pastor and his wife were kind enough to feed us. They ordered a pizza and subs for us from a place called Casey's. It was delicious and we had a great time talking with them. Also, that night happened to be Game 7 of the NBA finals so I was really happy that they had a TV and let us watch it. I would have been bummed if we ended up missing the game and I was happy the Cavs won.
+
+# Kansas
 
 The next day we took off to go to Fort Scott, Kansas. As the day progressed we had a tough time dealing with the rocky gravel roads, however, the host for that night made up for any difficulties we had encountered that day. It turns out that the Warm Showers host was an upscale bed and breakfast. We lucked out and got the premier guesthouse that usually goes for $225 a night and we got it for free. The deals you can get from riding a bike are out of this world!
 
@@ -97,6 +101,8 @@ After Dighton, KS we rode to a town called Leoti, KS. We had a good amount a hea
 
 The next day I went over to the library and found an awesome watercolor picture book along with some history and information about Kansas. The information in the book was fascinating and the paintings in it were beautiful. The book showcased the love that people have for Kansas. Although some people may find the state boring there's definitely beauty in its peacefulness and serenity.
 
+# Colorado
+
 The next day we made it to Colorado. Almost immediately we noticed the scenery starting to change from farms to shrubby things which is likely a result of the farming legislature. When we reached Ordway, CO we stayed with a kind woman from New Zealand that we found on Warm Showers. This woman also happened to be hosting about 15 other touring cyclists the same night, so it was a bit hectic at her house. Somehow she managed to house all of us and we had a nice meal together at a local restaurant.
 
 <img src="https://adrielklein.github.io/adventures/assets/images/col1.jpg" width="100%">
@@ -106,3 +112,7 @@ The next day, Erika's tire blew out and we had to resort to hitch-hiking. A nice
 For next thousand miles or so we would ride along the Rockies, criss-crossing over them seemingly every day.
 
 <img src="https://adrielklein.github.io/adventures/assets/images/col2.jpg" width="100%">
+
+I'll always remember one encounter that we had along the homestretch of Kansas when we stopped off at a gas station to get some supplies. Given how friendly folks are in that part of the country, a trucker made conversation with us. He asked us where we were going and we told him going out West and heading to Colorado next. He looked at us sternly and replied, "It's not bad here in Kansas but once you hit them Rockies in Colorado, that's God's country."
+
+He wasn't wrong.
