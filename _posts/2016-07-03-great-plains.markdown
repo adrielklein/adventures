@@ -5,13 +5,23 @@ date: 2016-07-03
 categories:
   - USA
 description:
-image: https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15122955_10207884021238658_4854724886727804153_o.jpg
-image-sm: https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15122955_10207884021238658_4854724886727804153_o.jpg
+image: https://adrielklein.github.io/adventures/assets/images/kans6.jpg
+image-sm: https://adrielklein.github.io/adventures/assets/images/kans6.jpg
 ---
 
 The Katy Trail was spectacular. Stretching 237 miles across the state of Missouri, the crushed limestone trail is the longest bike path in the nation. Although it's not paved, I had no problem at all riding on it with road bike tires. I would recommend it to anybody interested in bike touring, especially beginners. The majority of the trail is shaded which makes it ideal for riding during the heat of the day. There are some parts of the trail without overhead cover, but the great views make up for the lack of shade.
 
 The shaded parts of the trail provide for some ideal cycling conditions.
+
+<img src="https://adrielklein.github.io/adventures/assets/images/miss1.jpg" width="100%">
+
+<img src="https://adrielklein.github.io/adventures/assets/images/miss2.jpg" width="100%">
+
+<img src="https://adrielklein.github.io/adventures/assets/images/miss3.jpg" width="100%">
+
+<img src="https://adrielklein.github.io/adventures/assets/images/miss4.jpg" width="100%">
+
+<img src="https://adrielklein.github.io/adventures/assets/images/miss5.jpg" width="100%">
 
 A great part of the Katy Trail was how accommodating it is towards cyclists. The state park department does an excellent job maintaining it and there's plenty of amenities along the way. For those seeking a laid back peaceful ride through some nice countryside, I can't think of a better option. There are even plans to make the Katy Trail even longer!
 
@@ -53,13 +63,21 @@ The next day we reached our first point on the Trans America trail at Lizard's L
 
 I first noticed we were on the Trans America trail because there was a guest book for cyclists. I was excited to be on the trail because I knew we would meet more cyclists and also navigation would be easier.
 
+<img src="https://adrielklein.github.io/adventures/assets/images/kans1.jpg" width="100%">
+
 That night our destination was Cassoday, KS, a town with a population of just 128. The road there was so peaceful.
 
 Upon arriving in Cassoday, we discovered it was the prairie chicken capital of the world. Unfortunately, we didn't see a single prairie chicken while we were there. Although the great bird was once abundant in these plains, habitat loss has greatly reduced the population. Luckily, conservation efforts are underway to save the species.
 
+<img src="https://adrielklein.github.io/adventures/assets/images/kans2.jpg" width="100%">
+
 After grabbing some food at the only store in the town, we found a nice gazebo to pitch our tents and the next morning we were delighted with an awesome sunrise.
 
 The next day we made our way to Newton, KS. We arranged a Warm Showers host for that night so we were excited to have the comfort of a home. The ride there was short but it nice and scenic.
+
+<img src="https://adrielklein.github.io/adventures/assets/images/kans3.jpg" width="100%">
+
+<img src="https://adrielklein.github.io/adventures/assets/images/kans4.jpg" width="100%">
 
 Anyways, we checked out [a bike shop](http://www.newtonbikeshop.com/) in Newton that also operates as a hostel for touring cyclists. They refer to themselves as "THE OASIS IN THE GRASS DESERT TO ALL TOURING CYCLISTS". Shortly after arriving, we learned that there was another race that crosses the US called the [TransAm Bike Race](http://transambikerace.com/). I met some racers at the shop and enjoyed talking with them. The race is still young and has only been going on for a few years but I think it's gaining traction.
 
@@ -73,10 +91,18 @@ The next few days we stayed in some tiny isolated towns in Kansas. Most of the d
 
 After Dighton, KS we rode to a town called Leoti, KS. We had a good amount a headwind that day and were happy to arrive to a Warm Showers host. It turns out that our host wasn't even home but she told us we are welcome to use her house. I'm always amazed by how generous and trusting some people are. We made ourselves some good food in her kitchen.
 
+<img src="https://adrielklein.github.io/adventures/assets/images/kans5.jpg" width="100%">
+
+<img src="https://adrielklein.github.io/adventures/assets/images/kans7.jpg" width="100%">
+
 The next day I went over to the library and found an awesome watercolor picture book along with some history and information about Kansas. The information in the book was fascinating and the paintings in it were beautiful. The book showcased the love that people have for Kansas. Although some people may find the state boring there's definitely beauty in its peacefulness and serenity.
 
 The next day we made it to Colorado. Almost immediately we noticed the scenery starting to change from farms to shrubby things which is likely a result of the farming legislature. When we reached Ordway, CO we stayed with a kind woman from New Zealand that we found on Warm Showers. This woman also happened to be hosting about 15 other touring cyclists the same night, so it was a bit hectic at her house. Somehow she managed to house all of us and we had a nice meal together at a local restaurant.
 
+<img src="https://adrielklein.github.io/adventures/assets/images/col1.jpg" width="100%">
+
 The next day, Erika's tire blew out and we had to resort to hitch-hiking. A nice man with a pick up truck helped us out and brought us to Pueblo. He was a funny, talkative guy and told us some interesting facts about the area including something about an alligator farm nearby. As we arrived closer to town, we finally saw the mountains far in the distance.
 
 For next thousand miles or so we would ride along the Rockies, criss-crossing over them seemingly every day.
+
+<img src="https://adrielklein.github.io/adventures/assets/images/col2.jpg" width="100%">
