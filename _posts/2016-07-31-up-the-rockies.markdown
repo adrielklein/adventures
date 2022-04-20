@@ -25,8 +25,6 @@ Although the road looked flat, it was going up pretty steadily. Eventually we ma
 
 To continue through the Rockies we climbed up CO-9 for the first part of the day and then rode through a flat basin called South Park.
 
-![Elevation profile](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15192703_10207871303120713_196545724120002582_n.jpg?oh=418da6ce5c76a8fff1bc601bda1da308&oe=58D28ACD)
-
 Admittedly it was a big ride, but I think the beauty and excitement of being surrounded by mountains made the day fly by.
 
 ![CO-9](https://c2.staticflickr.com/4/3731/32765326926_0dd2e3041e_b.jpg)
@@ -83,7 +81,7 @@ Our host ended up returning to her house the next day and we had a great time ch
 
 The next couple days we took off to rest a little bit. I had met up with a cousin living in Denver who took me to this great glacier with some nice cliff jumping.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epa2qD5-8cA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/epa2qD5-8cA" frameborder="0" allowfullscreen></iframe>
 
 The next day we decided to take on Mt. Evans. I had heard about Mt. Evans a couple years ago from a friend and ever since had been hoping to climb it. In fact, Idaho Springs wasn’t even on the original route, but we made an extra effort to come out here for the mountain.
 
@@ -200,8 +198,6 @@ As we headed through Yellowstone, we passed by the famous Old Faithful Geyser an
 Being a park ranger, Clay was a great person talk to about the park. He offered us tidbits of information of the geological phenomenons that happens at this part of the Earth.
 
 As we were setting up our tents in his yard, we spotted some elk walking around nearby.
-
-![Elk](https://c1.staticflickr.com/3/2591/32657672642_a4b4621f26_b.jpg)
 
 Although both are a type of deer, the elk is quite different than the typical deer I am familiar with back east, the white-tailed deer (also called a whitetail). The greatest different is size. While a whitetail buck can weigh up to 300lbs, a male elk (called a bull) typically weighs more than double that.
 
