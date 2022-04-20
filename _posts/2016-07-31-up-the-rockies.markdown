@@ -9,6 +9,8 @@ image: https://c1.staticflickr.com/1/763/32682936891_e1b277e1e9_b.jpg
 image-sm: https://c1.staticflickr.com/1/763/32682936891_e1b277e1e9_b.jpg
 ---
 
+# Colorado
+
 After taking a day off for the fourth of July in Pueblo, CO, Erika and I were ready for tackling the mountains. Just before we left town we took a quick pitstop at a bike shop to get some supplies where we met [Kevin](https://www.crazyguyonabike.com/doc/?doc_id=17523), a 56 year old high school tennis coach and teacher.
 
 Although I was inspired by Kevin's ambition and physical fitness given his age, I was more inspired by Kevin's cause. In addition knocking off a bucket list item, he was raising money to beat cancer. He surpassed his fundraising goal of $10,000 and ended up raising over $14,000. What an accomplishment!
@@ -56,7 +58,6 @@ That night we had planned on staying with a Warm Showers host. It’s amazing ho
 Although it was summer, it still got a bit chilly camping at 10,000+ feet. Despite the conditions we managed to make it through the night and the next day made it over Hoosier Pass, our first of many encounters with the notorious continental divide.
 
 ![Imgur](http://i.imgur.com/fuCxWwb.jpg)
-
 
 We ended up staying at a couchsurfing host that night in Breckenridge, the picturesque ski resort town. Our hosts were very friendly and we got to meet another couchsurfer who was also staying there as well. The next morning we were heading to Idaho Springs and had another big climb ahead of us.
 
@@ -192,7 +193,6 @@ The area is also abundant in wildlife including big game animals like the moose.
 
 ![Moose](https://c1.staticflickr.com/1/628/32810822305_fcaf8b4a88_b.jpg)
 
-
 As we headed through Yellowstone, we passed by the famous Old Faithful Geyser and ended up staying in the heart of the park with [Clay](http://www.clayshow.org/), a park ranger we found on Warm Showers. In addition to being a park ranger, he is a traveling circus on bicycle and a skilled photographer. I managed to find a great photo of his bike on his website.
 
 ![Bike set up](http://www.clayshow.org/koken/storage/cache/images/000/445/untitled-HDR,medium_large.2x.1478358760.jpg)
@@ -249,7 +249,7 @@ We met a young couple that were heading the opposite direction as us and I had a
 
 Before I handed the couple the bear spray, I figured I would do them an extra favor and teach them how to use it.
 
-I took off the safety, pointed the canister towards the ground, and pressed down the trigger. Shortly after releasing the spray, I realized I hadn't quite pointed it close enough to the ground. As the orange mist spread through the air, the four of us began to coughing and wheezing.  Some of us even began tearing up.
+I took off the safety, pointed the canister towards the ground, and pressed down the trigger. Shortly after releasing the spray, I realized I hadn't quite pointed it close enough to the ground. As the orange mist spread through the air, the four of us began to coughing and wheezing. Some of us even began tearing up.
 
 After about ten minutes of discomfort, we were all fine and I apologized profusely. I learned exactly how **not** to give a bear spray demonstration.
 
