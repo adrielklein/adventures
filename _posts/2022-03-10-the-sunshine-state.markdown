@@ -5,8 +5,8 @@ date: 2022-03-10
 categories:
   - USA
 description:
-image: https://adrielklein.github.io/adventures/assets/images/mass.jpg
-image-sm: https://adrielklein.github.io/adventures/assets/images/mass.jpg
+image: https://adrielklein.github.io/adventures/assets/images/florida2.jpg
+image-sm: https://adrielklein.github.io/adventures/assets/images/florida2.jpg
 ---
 
 Does anybody else use state nicknames except for me? I think for most of us we had some point in elementary school where we had to memorize these names and then thereafter the only other time we've seen them is when we see a state sign on the road when traversing through states.
