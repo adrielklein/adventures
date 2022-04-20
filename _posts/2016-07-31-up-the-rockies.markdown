@@ -81,7 +81,7 @@ Our host ended up returning to her house the next day and we had a great time ch
 
 The next couple days we took off to rest a little bit. I had met up with a cousin living in Denver who took me to this great glacier with some nice cliff jumping.
 
-<iframe width="100%" src="https://www.youtube.com/embed/epa2qD5-8cA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epa2qD5-8cA" frameborder="0" allowfullscreen></iframe>
 
 The next day we decided to take on Mt. Evans. I had heard about Mt. Evans a couple years ago from a friend and ever since had been hoping to climb it. In fact, Idaho Springs wasn’t even on the original route, but we made an extra effort to come out here for the mountain.
 
