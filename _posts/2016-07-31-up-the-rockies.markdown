@@ -9,8 +9,6 @@ image: https://c1.staticflickr.com/1/763/32682936891_e1b277e1e9_b.jpg
 image-sm: https://c1.staticflickr.com/1/763/32682936891_e1b277e1e9_b.jpg
 ---
 
-# Colorado
-
 After taking a day off for the fourth of July in Pueblo, CO, Erika and I were ready for tackling the mountains. Just before we left town we took a quick pitstop at a bike shop to get some supplies where we met [Kevin](https://www.crazyguyonabike.com/doc/?doc_id=17523), a 56 year old high school tennis coach and teacher.
 
 Although I was inspired by Kevin's ambition and physical fitness given his age, I was more inspired by Kevin's cause. In addition knocking off a bucket list item, he was raising money to beat cancer. He surpassed his fundraising goal of $10,000 and ended up raising over $14,000. What an accomplishment!

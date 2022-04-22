@@ -9,8 +9,6 @@ image: https://adrielklein.github.io/adventures/assets/images/kans6.jpg
 image-sm: https://adrielklein.github.io/adventures/assets/images/kans6.jpg
 ---
 
-# Missouri
-
 The Katy Trail was spectacular. Stretching 237 miles across the state of Missouri, the crushed limestone trail is the longest bike path in the nation. Although it's not paved, I had no problem at all riding on it with road bike tires. I would recommend it to anybody interested in bike touring, especially beginners. The majority of the trail is shaded which makes it ideal for riding during the heat of the day. There are some parts of the trail without overhead cover, but the great views make up for the lack of shade.
 
 The shaded parts of the trail provide for some ideal cycling conditions.
