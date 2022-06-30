@@ -5,8 +5,8 @@ date: 2022-06-30
 categories:
   - USA
 description:
-image: https://adrielklein.github.io/adventures/assets/images/vermonRoad.jpg
-image-sm: https://adrielklein.github.io/adventures/assets/images/vermonRoad.jpg
+image: https://adrielklein.github.io/adventures/assets/images/vermontRoad.jpg
+image-sm: https://adrielklein.github.io/adventures/assets/images/vermontRoad.jpg
 ---
 
 A few weeks ago a good friend of mine and I were talking and he mentioned something that piqued my interest. A few hours drive away a 200 mile bike ride was talking place stretching from the Canadian border to the Massachusetts border all following along Vermont's route 100. As such the ride is called the 200-on-100. It sounded like a crazy adventure and definitely seemed like would be a challenge to say the least.
