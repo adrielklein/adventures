@@ -17,7 +17,7 @@ Although the original friend who suggested in wasn't able to make it, he connect
 
 Logistically it was a bit of a puzzle to figure the planning for it since the ride has no formal registration, transportation, and there's really not much infrastructure at the start or finish of the race (including cell service).
 
-Nevertheless Lance and I devised a plan to complete the journey. On the day before the race, we'd meet together in separate cars at the Mass border, I'd drop my car off, we'd drive together up to his place in central Vermont, and his girlfriend would drive us to an inn near the start of the ride the night before. Then the next morning of the ride at the crack of dawn we'd do a 6 mile bike ride to the canadian border, bike 200 miles south back to my car, then drive back to his place in central Vermont. Simple right?
+Nevertheless Lance and I devised a plan to complete the journey. On the day before the race, we'd meet together in separate cars at the Mass border, I'd drop my car off, we'd drive together up to his place in central Vermont, and his girlfriend Amy would drive us to an inn near the start of the ride the night before. Then the next morning of the ride at the crack of dawn we'd do a 6 mile bike ride to the canadian border, bike 200 miles south back to my car, then drive back to his place in central Vermont. Simple right?
 
 Not quite, but we made it work. We talked to a local bartender at the finish in Readsboro VT and she kindly told us of a good spot we could park overnight. We then started the journey backwards by car along VT route 100. As we drove and chatted, we admired the beautiful landscape, but at the same time I was slightly overwhelmed by the length of it. It was a long drive let alone biking the whole thing!
 
