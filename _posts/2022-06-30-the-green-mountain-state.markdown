@@ -78,3 +78,55 @@ Anyways the guys were very nice and encouraging. After chatting with one of the 
 Together the five us descended quickly to the bottom of the next upcoming monster climb. I started pacelining with the three guys and as we passed Lance and the other dude, I told them to hop on to optimize the draft.
 
 Lance was super appreciative especially since he'd been pulling for so long previously and now could get some "active rest" time.
+
+As we descended together as a group, the last major climb was just about to come upon us. This was probably around 5pm or so and luckily the sun was hiding behind some clouds that relieved us from baking under a still potent sun. This being one of longest days of the year, a even at 5pm the sun can be quite strong. The faster climbers went ahead as Ralph and I chatted a bit about life and made our way up at a slightly slower pace than the others. He mentioned to me that their crew was from Connecticut and we talked about sports fans being a bit confused in that region. He said the most messed up part is that some Connecticut residents just choose a random team from a totally different part of the country to root for like the Cowboys since they have a lack of sports culture identity. I told him atleast they have UConn.
+
+Back to the bike we continued making way up, Ralph and I ended up joining with another rider in his trio. As much as I wanted to keep chatting, the pace started getting a bit challenging for me especiialy after about 180 miles of bike riding and 10k ft of climbing. Despite the amount of climbing we'd already done, this climb was the largest of the day, totally around a 2k foot gain.
+
+Despite being the longest climb, the elevation was quite gradual as the 2k feet was spread over about 10-12 miles. As we started getting towards the later half of the climb the grade definitely took it up a notch. I got dropped by the other dudes but continued comfortably at my pace.
+
+This climb seemed to go on forever, but I couldn't complain and was fueled + hydrated up so although I was fatigued I still felt comfortable enough to somewhat enjoy the climb.
+
+After getting to the top I was pleased by the other guys convened at the top with "our" support vehicle willing to shed me some water. It was nice to have the other dudes chear me on as I was the final one of the 6 riders. As I got to the top I joked, "That's it already? I was just starting to enjoy myself."
+
+All the dudes at the top seemed to be relaxing and enjoying a bit of a break and I appreciated them waiting for me, however as soon as I arrived it was go time so not much of a break for me. I didn't mind at all, since the descent is a good time to actively recover anyways.
+
+With steep grades toward the start of the descent, we naturally spaced out a bit, but as the road started to flatten out, we formed a pretty ferocious paceline. The guy who I was riding with, Ralph, was leading the pack and seemed to be putting down the hammer. We must have been averaging around 30mph for around 20 minutes or so as it was slighly descending for a while.
+
+All the sudden I struck a huge pothole as I was drafting the guy in front of me. Worse than that, I heard some aweful noises behind me and was almost sure atleast one man behind me had crashed. By the grace of God, when I looked back all I saw were some water bottles scattered on the road as well as other riders slowing down.
+
+What happened was that there was a gnarly pothole that was long and deep, the worst kind of pothole for folks who are riding quickly on a paceline. The guy in front apologized for not calling it out as he must have passed it by a slim margin. In retrospect I was probably at fault as well since I must have been riding not perfectly aligned with the man in front of me since he didn't hit the pothole.
+
+I was thankful that only my chain had popped off, but both Lance's wheels had flatted and I believe his back wheel got slightly warped. Despite the inconveniences we had to deal with, we were all super happy that nobody was hurt and spent about 10-15 minutes repairing the flats and gathering our fallen water bottles.
+
+I think at this point Lance and I and possibly some of the other riders were just a bit shooken up, knowing how there was such a slim margin where things could have been much worse especially given our high speeds and sharing the roads with motor vehicles. Given that, we let the other riders continue onwards with their challenging pace and continued with just the two of us, prioritizing safety more than anything else. I was quick to call out any holes in the road during my pulls to ensure this wouldn't happen again.
+
+Lance and I reached another quick rest stop about 10 miles from the finish were we refueled and looked forward to finishing the ride.
+
+Unfortunately those last 10 miles were still pretty challenging and must have had around 1k feet of additional climbing especially since we missed a shortcut that was part of the official route that saves a bunch of climbing.
+
+As we neared Readsboro,VT where my car was parked, I told lance that I was just going to finish the ride in the town rather than at the actual MA/VT border. In my eyes, I had completed the double century which was my main objective. Lance on the other hand very much wanted to complete the entire journey to the border so we made a plan that I would drive to the car, pack my bike, and then drive the final 3-5 miles and meet him at the border.
+
+The last few miles of my ride were super pretty, and that last descent down the hill were fantastic. The point where I recognized where we were and saw my car waiting nicely for me was a huge relief and I was thankful to have completed the journey safetly.
+
+I packed up my bike, changed into some dry clothes, and drove off to the border at about 6 or 7pm. What I thought we be a quick finish, turned out to be a wild goose chase.
+
+As it turns out, there is no clear marker for the MA/VT border and I believe since we were on the earlier side, there wasn't really a huge crowd that indicated the finish. Given such, I had over driven the route, realized it, then drove back to the border. To my surprise, Lance was not at the border. Continuing the goose chase, I tried thinking about what must have happened to him. I drove around to some nearby spots were maybe he had mistaken the finish for, but he was nowhere to be found.
+
+I continued my search for the MIA riding partner and was literally asking every person I saw if they saw a guy with aerobars zipping by along the road. After maybe the 6th or 7th person, I came across an old lady on a poarch and asked her the same question.
+
+"Excuse me ma'am, did you happen to see a guy on a bike ridding by here?", I asked.
+
+"Yes", she answered. "And you should tell him to slow down it's a 25mph speed limit zone here!"
+
+Given Lance's I immediately knew she was referring to him. I continued driving for about 20 minutes wondering if I'd ever find lance. Given that the road was mostly downhill, I knew Lance could have probably covered a lot of ground and could possibly be travelling around the same as me.
+
+After about 20 minutes I saw a pickup truck pass me in the opposite direction and I got to a crossroads. I was just started to lose hope when the pickup truck turned back around and I saw Lance smiling in the passenger seat.
+
+Given the confusion of the finish line, Lance had drastically out-biked the MA/VT border. Given that he had already biked hundreds of miles and was in a grove hammering down hill, I think he was just phycologically reluctant to realize that he would have to turn back around and go back up. Eventually he realized his mistake and luckily came across a nice dude to give him a lift back to the border when he recognized my car in the search and rescue mission and had the driver turn around to get back to me.
+
+Anyways, we thanked the driver, put both our bikes in the car, made our back to the border, jumped in the river to cool off, and celebrated with a nice dinner in Readsboro. As we made our way back from dinner to central VT at Lance's place we saw the straggling riders coming back along the route in the pitch black with bike lights.
+
+At this moment, I felt super grateful to have a strong riding parter to help pull me and despite the goose chase at the end, still have enough time to get back to central VT before midnight. Moral of the story is that you can accomplish much more as a team than you could on your own. 
+
+Also pancakes the morning after a big ride are the best.
