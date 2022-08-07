@@ -105,4 +105,4 @@ Although checking off a bucket list item here, I was able to add some more bucke
 
 Anyways, all in all it was a worthwhile trip although a bit chaotic. Sometimes in life you have to take a risk and try something that is a bit outside your comfort zone. As the result of a google search for “taking risks quotes” informs me:
 
- “*Take risks*: if you win, you will be happy; if you lose, you will be wise.”
+"**Take risks**: if you win, you will be happy; if you lose, you will be wise."
