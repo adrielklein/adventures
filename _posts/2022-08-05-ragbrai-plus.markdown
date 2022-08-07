@@ -33,7 +33,7 @@ It was at this moment that I started to question what I’d signed up for, since
 
 Fortunately the scenery starting making up for the crowded start. The beautiful rolling hills with pleasant farmland scenery was a great combo and I finally I started to enjoy the riding.
 
-<img src="{{ base.url }}/adventures/assets/images/ragbrai/E7A812B3-CCA8-440B-9F8F-225D9AD18BB9.jpeg" width="100%">
+<img src="{{ base.url }}/adventures/assets/images/ragbrai/02A8E2CB-62B2-4B42-ABE9-8F07D1DBA8E5.jpeg" width="100%">
 
 Shortly after embarking I started realizing how much of a “party ride” this really was. Beer stops were set up all throughout the route and folks seemed to be more in the mindset of having a good time then putting their head down and crushing miles. The fun along the way went beyond just the drink but had some creative activities that were free of charge. For example one pit stop had a giant slip and slide, another had a trampoline next to an above land swimming pool. There were even stops for petting zoos, dunk tanks, and a bull ride (more of just sitting on top of a an old steer than what you’d picture in a rodeo).
 
@@ -45,13 +45,17 @@ Each day thereafter pretty much resembled the same thing with some slight variat
 
 One of my favorite encounters along this trip was a grotto in seemingly the middle of nowhere Iowa with an amazing display of quartz, rocks, and other types of gems. The pictures don’t do it justice but was really a sight to see.
 
+<img src="{{ base.url }}/adventures/assets/images/ragbrai/A0AEC7D2-8D58-47CD-B96F-57D7E6C89517.jpeg" width="100%">
+
 Throughout the trip I often found myself trying my best to pass lots of people without seeming like an asshole. I even had people yell at me to tell me to slow down but honestly I think I just enjoy riding at a challenging pace and enjoy the speed. I often found myself trying to squeeze by people and trying my best to notify them “on your left!” without coming across as rude. I joked that next time I’m bringing a “on your left” button that would project a soothing voice notifying the riding ahead that I’m trying to squeeze by.
 
 Although I passed many people I certainly wasn’t the fastest rider. At one point at the beginning of the century I was riding and a group of a about 4-5 riders wizzed past me. Instincts kicked in and I sprinted to catch up on their wheel where I asked if it was alright for me to jump in and they accepted.
 
 Although I know they can be dangerous I’m a sucker to a good paceline and loved hanging onto their wheels on the back. I enjoyed riding about 5-10 mph faster than I would on my own for about 15 miles until we reached the next town.
 
-After 7 full days of riding we arrived at the Mississippi River and enjoyed our accomplishment over a drink in Lansing, Iowa, the finish town.
+After 7 full days of riding we arrived at the Mississippi River and enjoyed our accomplishment by dipping our front wheels and the river and celebrating over a drink in Lansing, Iowa, the finish town.
+
+<img src="{{ base.url }}/adventures/assets/images/ragbrai/CBE86379-D8ED-4327-BFCD-076AAC7FF95F.jpeg" width="100%">
 
 From there my friend headed on a bus to get to the airport, but I decided to stick around and check off another state off my bucket list as long as I was in the area: Wisconsin.
 
@@ -63,7 +67,7 @@ The next part of the ride was incredibly scenic as I went south along the Missis
 
 Finally my turn was approaching and I heading east into the hills. The next 40-50 miles or so were anything but flat, but as comes with hills I got my reward: Views. It was along this road that I saw one of the most beautiful views of the trip in the highlands of western Wisconsin.
 
-<Picture here>
+<img src="{{ base.url }}/adventures/assets/images/ragbrai/FCFC78F8-7FC7-4142-B532-2850D250233F.jpeg" width="100%">
 
 For around 3 hours or so I may have only been passed by 1 or 2 cars as I could tell this area was extremely remote. I did pass by some orchards but otherwise there were little signs of any other type of retail shop or even gas station until I reached Boaz, WI.
 
@@ -89,11 +93,11 @@ As we began to chat telling our stories the guy explained how he’d done RAGBRA
 
 At this point of the ride the highway I was on was starting to get more busy and was losing a bit of its shoulder but luckily there was a more quiet alternative route that ran pretty much parallel to the highway so I ended up taking that which brought me through some beautiful farmland surrounded by hills on either side in the horizon.
 
-<picture here>
-
 It wasn’t too long before I started finally gaining service on my cell phone which really wasn’t a given thing for the entirety of the trip thus far. The final 30 miles or so were pleasant conditions although a bit hilly as I got into Madison.
 
 As I finally reached my destination I was relieved to have finished the journey which I call RAGBRAI+.
+
+<img src="{{ base.url }}/adventures/assets/images/ragbrai/E689D38F-FC42-4143-A5AE-3BD192EBB694.jpeg" width="100%">
 
 In retrospect I’m glad I decided to do RAGBRAI, although I can’t say I’m eager to do it again just since the crowds were a bit much for me. I’m glad I decided to do it and loved some of the nice scenery and safe riding conditions.
 
