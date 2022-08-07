@@ -5,8 +5,8 @@ date: 2022-08-05
 categories:
   - USA
 description:
-image: https://adrielklein.github.io/adventures/assets/images/vermontRoad.jpg
-image-sm: https://adrielklein.github.io/adventures/assets/images/vermontRoad.jpg
+image: https://adrielklein.github.io/adventures/assets/images/ragbrai/E7A812B3-CCA8-440B-9F8F-225D9AD18BB9.jpeg
+image-sm: https://adrielklein.github.io/adventures/assets/images/ragbrai/E7A812B3-CCA8-440B-9F8F-225D9AD18BB9.jpeg
 ---
 
 Several years ago I had heard about a massive bike festival in Iowa called RAGBRAI which is an acronym for the Register’s annual great bike ride across Iowa. For those of you who don’t know, this ride started in the 70s by a few journalists for a newspaper company called the Des Moines Register that thought it would be fun to ride their bikes across Iowa and document the experience. Little did they know that tens of thousands of people would be doing the same ride decades later.
@@ -32,6 +32,8 @@ Right off the bat I was a bit overwhelmed with the amount of people doing this r
 It was at this moment that I started to question what I’d signed up for, since having to that walk my bike that frequently would kind of take away the fun of doing a bike tour.
 
 Fortunately the scenery starting making up for the crowded start. The beautiful rolling hills with pleasant farmland scenery was a great combo and I finally I started to enjoy the riding.
+
+<img src="{{ base.url }}/adventures/assets/images/ragbrai/E7A812B3-CCA8-440B-9F8F-225D9AD18BB9.jpeg" width="100%">
 
 Shortly after embarking I started realizing how much of a “party ride” this really was. Beer stops were set up all throughout the route and folks seemed to be more in the mindset of having a good time then putting their head down and crushing miles. The fun along the way went beyond just the drink but had some creative activities that were free of charge. For example one pit stop had a giant slip and slide, another had a trampoline next to an above land swimming pool. There were even stops for petting zoos, dunk tanks, and a bull ride (more of just sitting on top of a an old steer than what you’d picture in a rodeo).
 
