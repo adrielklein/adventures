@@ -23,8 +23,6 @@ Although the road looked flat, it was going up pretty steadily. Eventually we ma
 
 To continue through the Rockies we climbed up CO-9 for the first part of the day and then rode through a flat basin called South Park.
 
-![Elevation profile](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15192703_10207871303120713_196545724120002582_n.jpg?oh=418da6ce5c76a8fff1bc601bda1da308&oe=58D28ACD)
-
 Admittedly it was a big ride, but I think the beauty and excitement of being surrounded by mountains made the day fly by.
 
 ![CO-9](https://c2.staticflickr.com/4/3731/32765326926_0dd2e3041e_b.jpg)
@@ -56,7 +54,6 @@ That night we had planned on staying with a Warm Showers host. It’s amazing ho
 Although it was summer, it still got a bit chilly camping at 10,000+ feet. Despite the conditions we managed to make it through the night and the next day made it over Hoosier Pass, our first of many encounters with the notorious continental divide.
 
 ![Imgur](http://i.imgur.com/fuCxWwb.jpg)
-
 
 We ended up staying at a couchsurfing host that night in Breckenridge, the picturesque ski resort town. Our hosts were very friendly and we got to meet another couchsurfer who was also staying there as well. The next morning we were heading to Idaho Springs and had another big climb ahead of us.
 
@@ -192,7 +189,6 @@ The area is also abundant in wildlife including big game animals like the moose.
 
 ![Moose](https://c1.staticflickr.com/1/628/32810822305_fcaf8b4a88_b.jpg)
 
-
 As we headed through Yellowstone, we passed by the famous Old Faithful Geyser and ended up staying in the heart of the park with [Clay](http://www.clayshow.org/), a park ranger we found on Warm Showers. In addition to being a park ranger, he is a traveling circus on bicycle and a skilled photographer. I managed to find a great photo of his bike on his website.
 
 ![Bike set up](http://www.clayshow.org/koken/storage/cache/images/000/445/untitled-HDR,medium_large.2x.1478358760.jpg)
@@ -200,8 +196,6 @@ As we headed through Yellowstone, we passed by the famous Old Faithful Geyser an
 Being a park ranger, Clay was a great person talk to about the park. He offered us tidbits of information of the geological phenomenons that happens at this part of the Earth.
 
 As we were setting up our tents in his yard, we spotted some elk walking around nearby.
-
-![Elk](https://c1.staticflickr.com/3/2591/32657672642_a4b4621f26_b.jpg)
 
 Although both are a type of deer, the elk is quite different than the typical deer I am familiar with back east, the white-tailed deer (also called a whitetail). The greatest different is size. While a whitetail buck can weigh up to 300lbs, a male elk (called a bull) typically weighs more than double that.
 
@@ -249,7 +243,7 @@ We met a young couple that were heading the opposite direction as us and I had a
 
 Before I handed the couple the bear spray, I figured I would do them an extra favor and teach them how to use it.
 
-I took off the safety, pointed the canister towards the ground, and pressed down the trigger. Shortly after releasing the spray, I realized I hadn't quite pointed it close enough to the ground. As the orange mist spread through the air, the four of us began to coughing and wheezing.  Some of us even began tearing up.
+I took off the safety, pointed the canister towards the ground, and pressed down the trigger. Shortly after releasing the spray, I realized I hadn't quite pointed it close enough to the ground. As the orange mist spread through the air, the four of us began to coughing and wheezing. Some of us even began tearing up.
 
 After about ten minutes of discomfort, we were all fine and I apologized profusely. I learned exactly how **not** to give a bear spray demonstration.
 
